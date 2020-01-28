@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Clippy/CLionProjects/lab1/labs/lab1/bitmap_image.hpp
+algorithm
+-
+cmath
+-
+cstdlib
+-
+cstring
+-
+fstream
+-
+iostream
+-
+iterator
+-
+limits
+-
+string
+-
+vector
+-
+
+C:/Users/Clippy/CLionProjects/lab1/labs/lab1/main.cpp
+iostream
+-
+string
+-
+cmath
+-
+bitmap_image.hpp
+C:/Users/Clippy/CLionProjects/lab1/labs/lab1/bitmap_image.hpp
+
